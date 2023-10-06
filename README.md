@@ -1,5 +1,5 @@
 
-## Bem-vindes ao perfil da Ana 👋
+## Bem-vindos ao perfil da Ana 👋
 
 <div>
    <a href="https://github.com/anapaaulafernandes">
